@@ -6,6 +6,7 @@
 #
 #    http://shiny.rstudio.com/
 #
+# Se añade frase de prueba
 
 library(shiny)
 
